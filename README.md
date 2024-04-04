@@ -12,6 +12,9 @@
 |PRACTICEPERF|Practice makes us perfect|[Problem](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/PRACTICEPERF)|[Solution](https://github.com/mdshakibsami/Codechef/blob/main/Array/PRACTICEPERF.cpp)|
 |RECENTCONT|  Recent contest problems|[Problem](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/RECENTCONT)|[Solution](https://github.com/mdshakibsami/Codechef/blob/main/Array/RECENTCONT.cpp)|
 |TODOLIST| Problems in your to-do list |[Problem](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/TODOLIST)|[Solution](https://github.com/mdshakibsami/Codechef/blob/main/Array/TODOLIST.cpp)|
+|ABDIFF| AB Difference |[Problem](https://www.codechef.com/practice/course/javascript/PRACTICEJS02/problems/ABDIFF)|[Solution](https://github.com/mdshakibsami/Codechef/blob/main/contest/ABDIFF.cpp)|
+|SWAPNUM31| Swap the numbers |[Problem](https://www.codechef.com/practice/course/4-star-difficulty-problems/DIFF1900/problems/SWAPNUM31)|[Solution](https://github.com/mdshakibsami/Codechef/blob/main/contest/SWAPNUM31.cpp)|
+|ACTEMP| Air Conditioner Temperature |[Problem](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/ACTEMP)|[Solution](https://github.com/mdshakibsami/Codechef/blob/main/math/ACTEMP.c)|
 
 |Xxxxxxx| YYyyyyyy |[Problem](llllll)|[Solution](lllllllll)|
 
