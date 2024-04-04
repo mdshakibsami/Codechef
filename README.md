@@ -21,9 +21,9 @@
 |AIRLINES| Codechef Airlines |[Problem](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AIRLINES)|[Solution](https://github.com/mdshakibsami/Codechef/blob/main/math/AIRLINES.c)|
 |AMR15A| Mahasena  |[Problem](https://www.codechef.com/TSTIND16/problems-old/AMR15A)|[Solution](https://github.com/mdshakibsami/Codechef/blob/main/math/AMR15A.c)|
 |AUDIBLE| Audible Range |[Problem](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AUDIBLE)|[Solution](https://github.com/mdshakibsami/Codechef/blob/main/math/AUDIBLE.c)|
-|AVGPROBLEM| Greater Average |[Problem]([llllll](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AVGPROBLEM))|[Solution](]https://github.com/mdshakibsami/Codechef/blob/main/math/AVGPROBLEM.c)|
+|AVGPROBLEM| Greater Average |[Problem](logical-problems/DIFF800/problems/AVGPROBLEM)|[Solution](https://github.com/mdshakibsami/Codechef/blob/main/math/AVGPROBLEM.c)|
 |BUDGET_| Monthly Budget|[Problem](https://www.codechef.com/practice/course/python/DIFF500/problems/BUDGET_)|[Solution](https://github.com/mdshakibsami/Codechef/blob/main/math/BUDGET_.c)|
-|BURGERS| Practice problem - Burgers |[Problem]([llllll](https://www.codechef.com/learn/course/python-beginner/BP00BP08/problems/BM08))|[Solution](https://github.com/mdshakibsami/Codechef/blob/main/math/BURGERS.c)|
+|BURGERS| Practice problem - Burgers |[Problem](https://www.codechef.com/learn/course/python-beginner/BP00BP08/problems/BM08)|[Solution](https://github.com/mdshakibsami/Codechef/blob/main/math/BURGERS.c)|
 |CANDIVIDE| Candy Division |[Problem](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CANDIVIDE)|[Solution](https://github.com/mdshakibsami/Codechef/blob/main/math/CANDIVIDE.c)|
 |CANDYSTORE| Candy Store|[Problem](https://www.codechef.com/practice/course/basic-math/BASICMATH/problems/CANDYSTORE)|[Solution](https://github.com/mdshakibsami/Codechef/blob/main/math/CANDYSTORE.c)|
 |CARTRIP| Car Trip |[Problem](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/CARTRIP)|[Solution](https://github.com/mdshakibsami/Codechef/blob/main/math/CARTRIP.c)|
