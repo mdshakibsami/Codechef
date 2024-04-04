@@ -6,7 +6,7 @@
 
 |  ID  | Problem Name  | Problem Link | Solution |
 |:-    |:-             |:-            |:-        |
-|Xxxxxxx| YYyyyyyy |[Problem](llllll)|[Solution](lllllllll)|
+|Empty| Empty |[Problem](llllll)|[Solution](lllllllll)|
 |AVGPROBLEM| Greater Average |[Problem](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AVGPROBLEM)|[Solution](https://github.com/mdshakibsami/Codechef/blob/main/math/AVGPROBLEM.c)|
 |AUDIBLE| Audible Range |[Problem](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AUDIBLE)|[Solution](https://github.com/mdshakibsami/Codechef/blob/main/math/AUDIBLE.c)|
 |AMR15A| Mahasena |[Problem](https://www.codechef.com/TSTIND16/problems-old/AMR15A)|[Solution](https://github.com/mdshakibsami/Codechef/blob/main/math/AMR15A.c)|
