@@ -6,7 +6,6 @@
 
 |  ID  | Problem Name  | Problem Link | Solution |
 |:-    |:-             |:-            |:-        |
-|Empty| Empty |[Problem](llllll)|[Solution](lllllllll)|
 |AVGPROBLEM| Greater Average |[Problem](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/AVGPROBLEM)|[Solution](https://github.com/mdshakibsami/Codechef/blob/main/math/AVGPROBLEM.c)|
 |AUDIBLE| Audible Range |[Problem](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AUDIBLE)|[Solution](https://github.com/mdshakibsami/Codechef/blob/main/math/AUDIBLE.c)|
 |AMR15A| Mahasena |[Problem](https://www.codechef.com/TSTIND16/problems-old/AMR15A)|[Solution](https://github.com/mdshakibsami/Codechef/blob/main/math/AMR15A.c)|
@@ -20,6 +19,7 @@
 |SWAPNUM31| Swap the numbers |[Problem](https://www.codechef.com/practice/course/4-star-difficulty-problems/DIFF1900/problems/SWAPNUM31)|[Solution](https://github.com/mdshakibsami/Codechef/blob/main/contest/SWAPNUM31.cpp)|
 |ACTEMP| Air Conditioner Temperature |[Problem](https://www.codechef.com/practice/course/logical-problems/DIFF800/problems/ACTEMP)|[Solution](https://github.com/mdshakibsami/Codechef/blob/main/math/ACTEMP.c)|
 |AIRLINES| Codechef Airlines |[Problem](https://www.codechef.com/practice/course/basic-programming-concepts/DIFF500/problems/AIRLINES)|[Solution](https://github.com/mdshakibsami/Codechef/blob/main/math/AIRLINES.c)|
+|Empty| Empty |[Problem](llllll)|[Solution](lllllllll)|
 
 
 
